@@ -1,10 +1,10 @@
-# File: requirements.txt
-streamlit
+fastapi
+uvicorn
 pandas
 numpy
 yfinance
 scikit-learn
-tensorflow
+joblib
 beautifulsoup4
 requests
 lxml
