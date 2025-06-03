@@ -1,0 +1,10 @@
+# File: requirements.txt
+streamlit
+pandas
+numpy
+yfinance
+scikit-learn
+tensorflow
+beautifulsoup4
+requests
+lxml
